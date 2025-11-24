@@ -61,7 +61,3 @@ jobs:
           app-name: 'ExamenDos'
           slot-name: 'Production'
           package: '*.jar'
-
-
-
-
