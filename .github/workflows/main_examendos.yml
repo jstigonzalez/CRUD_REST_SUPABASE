@@ -1,4 +1,3 @@
-#a
 name: Build and deploy JAR app to Azure Web App - ExamenDos
 
 on:
@@ -62,4 +61,5 @@ jobs:
           app-name: 'ExamenDos'
           slot-name: 'Production'
           package: '*.jar'
+
 
